@@ -51,7 +51,7 @@ python -m unittest -v      # 4 tests for the meal data and totals (no Streamlit 
 
 ## Roadmap
 
-The long-term goal is to grow this collection into a larger set of Python projects (the earlier description mentioned a target of 60). New projects will be added here only once their code exists.
+New projects are added here only once their code exists. For my other projects see [python-professional-projects](https://github.com/aymnb7178/python-professional-projects).
 
 ## Author
 
